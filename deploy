@@ -1,4 +1,0 @@
-git clone https://github.com/utterance/utterances-oauth
-cd utterances-oauth
-git remote add azure [the azure web app's git clone url from step 1]
-git push azure
